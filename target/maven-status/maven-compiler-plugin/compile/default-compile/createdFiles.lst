@@ -1,0 +1,7 @@
+me\xeify\welcome\events\JoinAndLeave.class
+me\xeify\welcome\utils\CC.class
+me\xeify\welcome\Welcome.class
+me\xeify\welcome\commands\readGreeting.class
+me\xeify\welcome\utils\GeneralUtils.class
+me\xeify\welcome\utils\configs\ConfigFile.class
+me\xeify\welcome\commands\WelcomeCommand.class

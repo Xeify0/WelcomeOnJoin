@@ -1,0 +1,13 @@
+name: Welcome
+version: 1.0
+main: me.xeify.welcome.Welcome
+authors: [ Xeify ]
+description: Welcome Plugin
+website: xeify.online
+commands:
+  read:
+    description: bob
+    usage: /<command>
+  welcome:
+    description: bob2
+    usage: /<command>
